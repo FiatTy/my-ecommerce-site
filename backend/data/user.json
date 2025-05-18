@@ -1,0 +1,56 @@
+[
+  {
+    "userAt": "2025-05-18T12:57:11.712Z",
+    "fname": "Name",
+    "lname": "LastName",
+    "email": "Fiat@gmail.com",
+    "password": "1234",
+    "occupationCat": "Computer",
+    "occupation": "Designer"
+  },
+  {
+    "userAt": "2025-05-18T13:06:06.753Z",
+    "fname": "Name1",
+    "lname": "LastName1",
+    "email": "Fiat2@gmail.com",
+    "password": "12345",
+    "occupationCat": "Healthcare",
+    "occupation": "Occupational Therapist"
+  },
+  {
+    "userAt": "2025-05-18T13:07:31.705Z",
+    "fname": "Name3",
+    "lname": "LastName3",
+    "email": "Fiat3@gmail.com",
+    "password": "1234",
+    "occupationCat": "Healthcare",
+    "occupation": "Dietitian"
+  },
+  {
+    "userAt": "2025-05-18T13:47:57.300Z",
+    "fname": "Name10",
+    "lname": "LastName10",
+    "email": "Fiat10@gmail.com",
+    "password": "12345",
+    "occupationCat": "Computer",
+    "occupation": "Data Analyst"
+  },
+  {
+    "userAt": "2025-05-18T13:59:08.892Z",
+    "fname": "Fiat",
+    "lname": "Romane",
+    "email": "FiatKub@gmail.com",
+    "password": "123",
+    "occupationCat": "Computer",
+    "occupation": "Engineer"
+  },
+  {
+    "userAt": "2025-05-18T14:12:55.474Z",
+    "fname": "Name",
+    "lname": "LastName3",
+    "email": "FiatKub2@gmail.com",
+    "password": "123",
+    "occupationCat": "Scientific",
+    "occupation": "Ecologist"
+  }
+]
